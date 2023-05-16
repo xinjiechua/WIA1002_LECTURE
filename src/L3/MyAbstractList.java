@@ -1,3 +1,5 @@
+package L3;
+
 public abstract class MyAbstractList<E> implements MyList<E> {
   protected int size = 0; // The size of the list
 

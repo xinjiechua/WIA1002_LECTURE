@@ -1,3 +1,5 @@
+package L7;
+
 import java.util.*;
 
 public class PriorityQueue2 {

@@ -18,7 +18,7 @@ public class DoublyLinkedList<E> {
             this(element, null, null);
         }
     }
-    
+
     private Node<E> head;
     private Node<E> tail;
     private int size;
