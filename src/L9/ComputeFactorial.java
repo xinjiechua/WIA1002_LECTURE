@@ -3,7 +3,7 @@ package L9;
 import java.util.Scanner;
 
 public class ComputeFactorial {
-  /** Main method */
+
   public static void main(String[] args) {
     // Create a Scanner
     Scanner input = new Scanner(System.in);
